@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.*;
 
 import com.example.map.models.Country;
 import com.example.map.service.CountryService;
-
 import java.util.List;
 
 @RestController
